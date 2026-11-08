@@ -1,0 +1,6 @@
+bin/
+upstream/
+upstream-test8/
+native/2v2Server-test8
+__pycache__/
+*.log
